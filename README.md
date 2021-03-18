@@ -9,7 +9,6 @@ This project was bootstrapped with [Angular CLI](https://cli.angular.io/).
 - [Getting Started](#getting-started)
 - [How to Run the Application](#how-to-run-the-application)
 - [Resources and Assets](#resources-and-assets)
-- [Legal Discliamer](#legal-discliamer)
 
 ## About the Application
 
