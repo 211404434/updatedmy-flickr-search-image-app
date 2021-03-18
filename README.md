@@ -49,6 +49,4 @@ An Angular based image search web apllication using pixabay API
 - [Anuglar Routing guide](https://angular.io/guide/router)
 - [Angular HTTP guide](https://blog.angular-university.io/angular-http/)
 
-## Legal Discliamer
 
-**This project is made for development purposes only.All Trademarks referred to are the property of their respective owners.This site is powered by PixaBay API all assets and images belong to Pixabay.com**
